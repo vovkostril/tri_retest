@@ -3,6 +3,7 @@ import os
 import shutil
 import sys
 # from robotframework import ExecutionResult
+from robot.api import ExecutionResult
 
 if __name__ == '__main__':
 
