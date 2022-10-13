@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation       New test no card by web
-Library             SeleniumLibrary
+# Library             SeleniumLibrary
+Library     SeleniumLibrary
 Library    String
 # Library             ../Libs/probe_gui.py
 Library             ../Libs/test_parse.py
